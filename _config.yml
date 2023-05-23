@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:yangyang.deng@nih.gov"}
   - {title: Github, icon: github, url: "https://github.com/yyd77"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/YY_DoubleShine?t=k4gfLeTvaHVd8e_zlFyDTw&s=09"}
-  - {Title: linkedIn, icon: linkedIn, url: "https://linkedin.com/in/yangyang-deng-76b2a3111"}
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
