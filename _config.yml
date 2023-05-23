@@ -1,6 +1,6 @@
 title: "Yangyang Deng"
 author: "Yangyang Deng "
-description: "National Institutes of Health"
+description: "Pening"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,14 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home Change, icon: home}
+  - {file: "README.md",title: About me, icon:address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yangyang.deng@nih.gov"}
   - {title: Github, icon: github, url: "https://github.com/yyd77"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/YY_DoubleShine?t=k4gfLeTvaHVd8e_zlFyDTw&s=09"}
-
+  - {Title: linkedIn, icon: linkedIn, url: "https://www.linkedin.com/in/yangyang-deng-76b2a3111"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
